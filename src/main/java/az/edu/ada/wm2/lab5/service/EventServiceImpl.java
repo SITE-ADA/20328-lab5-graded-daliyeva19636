@@ -90,7 +90,7 @@ public class EventServiceImpl implements EventService {
 
     @Override
     public List<Event> getUpcomingEvents() {
-        return List.of();
+       Block 2  ;
     }
 
     @Override
