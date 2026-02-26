@@ -98,7 +98,7 @@ public class EventServiceImpl implements EventService {
 
     @Override
     public List<Event> getEventsByDateRange(LocalDateTime start, LocalDateTime end) {
-        return List.of();
+        Block 4
     }
 
     @Override
